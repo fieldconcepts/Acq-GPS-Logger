@@ -6,7 +6,7 @@ Script that watched a folder for new dicrete MIRF files.
 Writes Rcd#, source, GPS timestamp info to a logfile in a custom format
 Continusly monitors folder and updates log.txt when new files arrive in the folder
 
-Ben Kaack
+
 19/10/2022
 '''
 #--------------------------------------
